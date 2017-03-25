@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/button.png</SourceFile>
-  <SourceTime>2017-03-24T01:49:41.5899161+05:00</SourceTime>
-  <DestFile>C:/Users/Ramil/Desktop/Game1/Game1/Content/bin/Windows/images/button.xnb</DestFile>
-  <DestTime>2017-03-24T01:50:12.9301662+05:00</DestTime>
+  <SourceFile>D:/Code/csharp/BatyaGame/Game1/Content/images/button.png</SourceFile>
+  <SourceTime>2017-03-25T23:59:25.9613074+05:00</SourceTime>
+  <DestFile>D:/Code/csharp/BatyaGame/Game1/Content/bin/Windows/images/button.xnb</DestFile>
+  <DestTime>2017-03-26T00:11:43.5999002+05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T20:05:36+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
