@@ -93,3 +93,4 @@ D:\Code\csharp\BatyaGame\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
 D:\Code\csharp\BatyaGame\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
 D:\Code\csharp\BatyaGame\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 D:\Code\csharp\BatyaGame\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\Code\csharp\BatyaGame\Game1\bin\Windows\x86\Debug\Game1.exe.config

@@ -2,6 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
+using System.Configuration;
 
 namespace Game1
 {
@@ -34,7 +35,10 @@ namespace Game1
         double coount2 = 0;
         bool activgame = false;
         bool inmenu = true;
-       
+        LoadConfig config;
+        String v1;
+
+
 
 
         Vector2 direction = new Vector2(1, 1);
@@ -44,10 +48,15 @@ namespace Game1
 
         public Game1()
         {
-            graphics = new GraphicsDeviceManager(this);
-            graphics.IsFullScreen = true;//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-            graphics.PreferredBackBufferHeight = screen_resolution2;
-            graphics.PreferredBackBufferWidth = screen_resolution1;
+            config = new LoadConfig();
+
+            graphics = new GraphicsDeviceManager(this)
+            {
+                IsFullScreen = config.FullScreen,
+                PreferredBackBufferHeight = config.ScreenH,
+                PreferredBackBufferWidth = config.ScreenW
+            };
+
             graphics.ApplyChanges();
             Content.RootDirectory = "Content";
         }
@@ -61,7 +70,8 @@ namespace Game1
         protected override void Initialize()
         {
 
-            
+          
+           Console.WriteLine(v1);
             IsFixedTimeStep = false;
            //*************************************************************************************************
            // TODO: Add your initialization logic here
