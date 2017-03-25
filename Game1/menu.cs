@@ -11,9 +11,16 @@ namespace Game1
 {
     class button
     {
+
         string caption;
         public int type;
         Rectangle button_rect;
+
+        public void new_function()
+        {
+            //asdasdas
+        }
+
 
         public button(string caption, Point location, int type)
         {
