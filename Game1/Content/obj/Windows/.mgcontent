@@ -4,15 +4,15 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/earth.png</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/shuttle.png</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/stars.jpg</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/fonts/font1.spritefont</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/fonts/font2.spritefont</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/ssssss.png</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/fire2.png</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/space.jpg</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/heart.png</File>
-    <File>C:/Users/Ramil/Desktop/Game1/Game1/Content/images/button.png</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/earth.png</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/shuttle.png</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/stars.jpg</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/fonts/font1.spritefont</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/fonts/font2.spritefont</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/ssssss.png</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/fire2.png</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/space.jpg</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/heart.png</File>
+    <File>D:/Code/csharp/BatyaGame/Game1/Content/images/button.png</File>
   </SourceFiles>
 </SourceFileCollection>
