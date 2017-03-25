@@ -56,7 +56,7 @@ namespace Game1
     {
         Texture2D text;
         SpriteFont font;
-        int number;
+
         List<button> button_array = new List<button>();
 
         public menu(Texture2D texture, SpriteFont f)
